@@ -124,7 +124,7 @@ matlab -nodisplay -r "dataset_='shuttle';alg='baseline5';ratio_outliers=0.01;s_v
 
 
 ## References
-<div id="refer-meb"></div> [1] <a href="https://courses.cs.duke.edu/spring07/cps296.2/papers/coresets_for_balls.pdf" target="_parent">Smaller Core-Sets for Balls</a>.
+<div id="refer-meb"></div> [1] <a href="https://courses.cs.duke.edu/spring07/cps296.2/papers/coresets_for_balls.pdf" target="_top">Smaller Core-Sets for Balls</a>.
 
 <div id="refer-BVX"></div> [2] Greedy Sampling for Approximate Clustering in the Presence of Outliers.
 
