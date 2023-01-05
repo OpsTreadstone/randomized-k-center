@@ -126,16 +126,16 @@ matlab -nodisplay -r "dataset_='shuttle';alg='baseline5';ratio_outliers=0.01;s_v
 ## References
 <div id="refer-meb"></div> [1] <a href="https://courses.cs.duke.edu/spring07/cps296.2/papers/coresets_for_balls.pdf" target="_blank">Smaller Core-Sets for Balls</a>.
 
-<div id="refer-BVX"></div> [2] Greedy Sampling for Approximate Clustering in the Presence of Outliers.
+<div id="refer-BVX"></div> [2] <a href="https://proceedings.neurips.cc/paper/2019/hash/73983c01982794632e0270cd0006d407-Abstract.html" target="_blank">Greedy Sampling for Approximate Clustering in the Presence of Outliers</a>.
 
-<div id="refer-CPP"></div> [3] Solving <i>k</i>-Center Clustering (with Outliers) in Mapreduce and Streaming, almost as Accurately as Sequentially.
+<div id="refer-CPP"></div> [3] <a href="https://arxiv.org/abs/1802.09205" target="_blank">Solving <i>k</i>-Center Clustering (with Outliers) in Mapreduce and Streaming, almost as Accurately as Sequentially</a>.
 
-<div id="refer-MKC+"></div> [4] Fast Distributed k-Center Clustering with Outliers on Massive Data.
+<div id="refer-MKC+"></div> [4] <a href="https://proceedings.neurips.cc/paper/2015/hash/8fecb20817b3847419bb3de39a609afe-Abstract.html" target="_blank">Fast Distributed <i>k</i>-Center Clustering with Outliers on Massive Data</a>.
 
-<div id="refer-GLZ"></div> [5] Distributed Partial Clustering.
+<div id="refer-GLZ"></div> [5] <a href="https://dl.acm.org/doi/abs/10.1145/3322808" target="_blank">Distributed Partial Clustering</a>.
 
-<div id="refer-LG"></div> [6] Distributed k-Clustering for Data with Heavy Noise.
+<div id="refer-LG"></div> [6] <a href="https://proceedings.neurips.cc/paper/2018/hash/2fe5a27cde066c0b65acb8f2c1717464-Abstract.html" target="_blank">Distributed <i>k</i>-Clustering for Data with Heavy Noise</a>.
 
-<div id="refer-CKM+"></div> [7] Algorithms for Facility Location Problems with Outliers.
+<div id="refer-CKM+"></div> [7] <a href="http://www.cs.umd.edu/~mount/Papers/soda01-outlier.pdf" target="_blank">Algorithms for Facility Location Problems with Outliers</a>.
 
-<div id="refer-MK"></div> [8] Streaming Algorithms for k-Center Clustering with Outliers and with Anonymity.
+<div id="refer-MK"></div> [8] <a href="https://link.springer.com/chapter/10.1007/978-3-540-85363-3_14" target="_blank">Streaming Algorithms for <i>k</i>-Center Clustering with Outliers and with Anonymity</a>.
