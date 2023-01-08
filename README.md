@@ -8,10 +8,10 @@ The algorithms were implemented in MATLAB R2019b.
 - **datasets**: this folder contains the datasets, including "shuttle" (the [Shuttle](https://archive.ics.uci.edu/ml/datasets/Statlog+(Shuttle)) dataset), "tiny_covertype" (100,000 randomly-selected instances from the [Covertype](https://archive.ics.uci.edu/ml/datasets/covertype) dataset), "tiny_kddcup99" (100,000 randomly-selected instances from the [KDD Cup 1999](https://archive.ics.uci.edu/ml/datasets/kdd+cup+1999+data) dataset) and "tiny_pokerhand" (100,000 randomly-selected instances from the [Poker Hand](https://archive.ics.uci.edu/ml/datasets/Poker+Hand) dataset).
 - **utils**
   - **alg_meb.m**: the algorithm for computing minimum enclosing ball [[1]](#refer-meb).
-  - **calc_t_for_alg1_to_comp_with_alg3.m**: calculates the value of $t$ for Algorithm 1 to output the same number of centers as Algorithm 3.
+  - **calc_t_for_alg1_to_comp_with_alg3.m**: calculates the value of $t$ for Algorithm 1 to output the same number of centers as Algorithm 3 does.
   - **generate_outliers.m**: generates outliers.
 - **alg_1_for_alg5.m**: Algorithm 1 that serves as a subroutine in Algorithm 5.
-- **alg_1_for_comp_with_alg3.m**: Algorithm 1 that outputs the same number of centers as Algorithm 3.
+- **alg_1_for_comp_with_alg3.m**: Algorithm 1 that outputs the same number of centers as Algorithm 3 does.
 - **alg_2.m**: Algorithm 2.
 - **alg_3.m**: Algorithm 3.
 - **alg_5_using_alg_1_deterministic.m**: Algorithm 5 that constructs a coreset of the specified size.
@@ -19,7 +19,7 @@ The algorithms were implemented in MATLAB R2019b.
 - **alg_6.m**: Algorithm 6.
 - **alg_baseline_1.m**: the "BVX" algorithm [[2]](#refer-BVX).
 - **alg_baseline_2.m**: the "CPP" algorithm [[3]](#refer-CPP).
-- **alg_baseline_2_for_comp_with_alg5.m**: the CPP algorithm that outputs the same number of points as Algorithm 5.
+- **alg_baseline_2_for_comp_with_alg5.m**: the CPP algorithm that outputs the same number of points as Algorithm 5 does.
 - **alg_baseline_3.m**: the "MKC+" algorithm [[4]](#refer-MKC+).
 - **alg_baseline_3_center.m**: the "CLUSTER" algorithm [[4]](#refer-MKC+).
 - **alg_baseline_4.m**: the "GLZ" algorithm [[5]](#refer-GLZ).
