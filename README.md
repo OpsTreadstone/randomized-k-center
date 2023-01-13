@@ -1,7 +1,7 @@
 # randomized-k-center
 This is the source code for our paper: [*Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers*](https://arxiv.org/abs/2301.02814).
 
-The algorithms were implemented in MATLAB R2019b.
+The algorithms are implemented in MATLAB R2019b.
 
 
 ## Main Organization of the Code
